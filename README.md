@@ -30,10 +30,11 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 </div>
 <br/>
 
- **📜 Quote**
+ ## 📜 Quote
 
 > "A Person Who Cannot Sacrifice Everything, Cannot Change Anything." – Armin Arlert
 
 ---
+## 🌎 Social
 
 Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/matheus-henrique-8ba576302/)
