@@ -37,4 +37,4 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 ---
 ## 🌎 Social
 
-Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/matheus-henrique-8ba576302/)
+Feel free to reach out!-> <a href="https://www.linkedin.com/in/matheus-henrique-8ba576302/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
