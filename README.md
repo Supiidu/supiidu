@@ -31,7 +31,6 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
   </tr>
 </table>
 
----
 
 ## 📜 Quote
 
