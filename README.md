@@ -24,10 +24,10 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 
 ---
 
-> "A Person Who Cannot Sacrifice Everything, Cannot Change Anything."
+> "A Person Who Cannot Sacrifice Everything, Cannot Change Anything." - Armin Arlert
 
 <img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
 
 ---
 
-Feel free to reach out! [LinkedIn]([link](https://www.linkedin.com/in/matheus-henrique-8ba576302/))
+Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/matheus-henrique-8ba576302/)
