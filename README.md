@@ -35,6 +35,9 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 > "A Person Who Cannot Sacrifice Everything, Cannot Change Anything." – Armin Arlert
 
 ---
-## 🌎 Social
+## 🌎 Socials
 
-Feel free to reach out!-> <a href="https://www.linkedin.com/in/matheus-henrique-8ba576302/"><img style="height: 16pt; width: auto; margin-top: 5%;" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg"></a>
+Feel free to reach out! 
+<p align="left">
+<a href="https://linkedin.com/in/matheus henrique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheus henrique" height="30" width="40" /></a>
+</p>
