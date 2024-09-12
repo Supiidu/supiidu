@@ -21,21 +21,21 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Matheus's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Supiidu&show_icons=true&theme=tokyonight" alt="Matheus's GitHub Stats" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supiidu&layout=compact&theme=tokyonight" alt="Top Languages" />
     </td>
     <td>
       <img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
     </td>
   </tr>
 </table>
+
 ---
 
 ## 📜 Quote
 
-> "Favorite quote or something inspiring here!" – Your Name
+> "A Person Who Cannot Sacrifice Everything, Cannot Change Anything." – Armin Arlert
 
 ---
 
