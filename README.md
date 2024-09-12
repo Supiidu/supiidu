@@ -18,16 +18,21 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 
 ## 🔥 GitHub Stats
 
-![Matheus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Supiidu&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Supiidu&layout=compact&theme=tokyonight)
-
----
-
-> "A Person Who Cannot Sacrifice Everything, Cannot Change Anything." - Armin Arlert
-
-<img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Supiidu&show_icons=true&theme=tokyonight" alt="Matheus's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supiidu&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
+      <blockquote>
+        <p>"A Person Who Cannot Sacrifice Everything, Cannot Change Anything."</p>
+        <footer>– Armin Arlert</footer>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 ---
 
 Feel free to reach out! [LinkedIn](https://www.linkedin.com/in/matheus-henrique-8ba576302/)
