@@ -25,7 +25,7 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
   </div>
   <div style="margin-left: 20px;">
-    <img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
+    <img src="[https://link-to-anime-image.png](https://i.pinimg.com/originals/ef/3f/fc/ef3ffc509cc0a6a53f53e6c6f30fd594.jpg)" alt="Custom Image" width="300px" />
   </div>
 </div>
 <br/>
