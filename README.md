@@ -18,7 +18,7 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 
 ## 🔥 GitHub Stats
 
-<img align="right" width="38%" style="filter: brightness(80%);" src="https://i.imgur.com/Y8Cee24.jpeg"/>
+<img align="right" width="38%" style="filter: brightness(80%);" src="https://i.imgur.com/GDW0iCb.jpeg"/>
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
