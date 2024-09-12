@@ -18,15 +18,17 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 
 ## 🔥 GitHub Stats
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="Matheus's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </div>
-  <div style="flex: 1; padding-left: 20px;">
-    <img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Supiidu&show_icons=true&theme=tokyonight" alt="Matheus's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supiidu&layout=compact&theme=tokyonight" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://link-to-anime-image.png" alt="Custom Image" width="300px" />
+    </td>
+  </tr>
+</table>
 
 ---
 
