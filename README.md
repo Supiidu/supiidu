@@ -10,7 +10,7 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
   
   - 🎓 Student of **Systems Analysis and Development**
   - 💻 Focused on back-end development with Python
-  - 🎯 Interested in technology and anime
+  - 🎯 Interested in technology!
   - 🚀 Always looking to learn and improve!
 </details>
 
