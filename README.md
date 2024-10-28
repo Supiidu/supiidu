@@ -22,9 +22,9 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Supiidu&show_icons=true&&theme=material-palenight" alt="Matheus's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Supiidu&show_icons=true&&theme=discord_old_blurple" alt="Matheus's GitHub Stats" />
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supiidu&layout=compact&&theme=material-palenight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Supiidu&layout=compact&&theme=discord_old_blurple" alt="Top Languages" />
   </div>
   <div style="margin-left: 20px;">
 </div>
