@@ -1,23 +1,4 @@
-# 👋 Hi, I'm Matheus Henrique!
-
-I'm a student of Systems Analysis and Development with a focus on **back-end development** using **Python**. I enjoy exploring new technologies and being part of different communities.
-
----
-
-🔎 **More About Me:**
-<details>
-  <summary>Click to learn more</summary>
-  
-  - 🎓 Student of **Systems Analysis and Development**
-  - 💻 Focused on back-end development with Python
-  - 🎯 Interested in technology!
-  - 🚀 Always looking to learn and improve!
-</details>
-
----
-
-## 🔥 GitHub Stats
-
+I'm Matheus Henrique!
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div>
@@ -42,12 +23,6 @@ I'm a student of Systems Analysis and Development with a focus on **back-end dev
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="opensuse logo"  />
 </div>
 
-###
- ## 📜 Quote
-
-> "A Person Who Cannot Sacrifice Everything, Cannot Change Anything." – Armin Arlert
-
----
 ## 🌎 Socials
 
 Feel free to reach out! 
