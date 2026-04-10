@@ -5,6 +5,6 @@
   </a>
   <br><br>
   
-  [![mail](https://img.shields.io/badge/mail-4B0082)](mailto:m.henrique3243@gmail.com)
-  [![disc](https://img.shields.io/badge/disc-supiidu.-4B0082)](https://discord.com/users/919036595666034739)
+  [![mail](https://img.shields.io/badge/Mail-4B0082)](mailto:m.henrique3243@gmail.com)
+  [![disc](https://img.shields.io/badge/Discord-4B0082)](https://discord.com/users/919036595666034739)
 </div>
