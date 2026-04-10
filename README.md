@@ -6,5 +6,5 @@
 </p>
 
 <p align=center>
-  <img src="https://raw.githubusercontent.com/Supiidu/supiidu/main/assets/sylveon.gif" width="60">
+  <img src="https://raw.githubusercontent.com/Supiidu/supiidu/refs/heads/main/assets/197.gif" width="60">
 </p>
