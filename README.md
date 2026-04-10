@@ -4,10 +4,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Aubrey&size=30&duration=1&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=670&lines=One+day%2C+you+will+be+old+enough+to+start+reading+fairytales+again." alt="Typing SVG" />
   </a>
   <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A9A9A9&center=true&vCenter=true&width=435&lines=____________________________;Exploring+the+digital+void...;Building+cool+stuff." alt="Typing SVG Separator" />
-
-  <br>
   
 [![Mail](https://img.shields.io/badge/Mail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.henrique3243@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/919036595666034739)
