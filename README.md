@@ -6,7 +6,7 @@
   <br><br>
   
   [![mail](https://img.shields.io/badge/Mail-d61e1e)](mailto:m.henrique3243@gmail.com)
-  [![disc](https://img.shields.io/badge/Discord-4B0082)](https://discord.com/users/919036595666034739)
+  [![disc](https://img.shields.io/badge/Discord-7289da)](https://discord.com/users/919036595666034739)
   <br>
     <img src="https://raw.githubusercontent.com/Supiidu/supiidu/refs/heads/main/assets/197.gif" width="80">
 </div>
