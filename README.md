@@ -5,14 +5,15 @@
   </a>
 </div>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=9370DB&center=true&vCenter=true&width=435&lines=%E2%9E%A4+About+Me&repeat=false" alt="About Me" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=9370DB&center=false&vCenter=true&width=435&lines=%E2%9E%A4+About+Me&repeat=false" alt="About Me" />
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=9370DB&center=true&vCenter=true&width=435&lines=%E2%9E%A4+Social+Connect&repeat=false" alt="Socials" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=9370DB&center=false&vCenter=true&width=435&lines=%E2%9E%A4+Social+Connect&repeat=false" alt="Socials" />
 
-  <br>
-<div>
+  <br><br>
+<div align=center>
+  
 [![Mail](https://img.shields.io/badge/Mail-c71610?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.henrique3243@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/919036595666034739)
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusshenrique)
