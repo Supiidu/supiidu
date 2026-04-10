@@ -5,8 +5,10 @@
   </a>
   <br><br>
   
-  [![mail](https://img.shields.io/badge/Mail-d61e1e)](mailto:m.henrique3243@gmail.com)
-  [![disc](https://img.shields.io/badge/Discord-7289da)](https://discord.com/users/919036595666034739)
+[![Mail](https://img.shields.io/badge/Mail-4B0082?style=for-the-badge&logo=gmail&logoColor=white)](mailto:m.henrique3243@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/919036595666034739)
+[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusshenrique)
+  
   <br>
     <img src="https://raw.githubusercontent.com/Supiidu/supiidu/refs/heads/main/assets/197.gif" width="80">
 </div>
