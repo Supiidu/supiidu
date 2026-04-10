@@ -9,9 +9,11 @@
 
   <br>
 
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=60a5fa&center=false&vCenter=true&width=435&lines=%E2%9E%A4+Tecnologies&repeat=false" alt="About Me" />
-  <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=60a5fa&center=false&vCenter=true&width=300&lines=%E2%9E%A4+Technologies&repeat=false" alt="Technologies" />
 
+<div align="left">
+  </div>
+    
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=60a5fa&center=false&vCenter=true&width=435&lines=%E2%9E%A4+Social+Connect&repeat=false" alt="Socials" />
 <div>
   
