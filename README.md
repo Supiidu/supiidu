@@ -4,16 +4,10 @@
     <img src="https://readme-typing-svg.demolab.com?font=Aubrey&size=30&duration=1&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=false&width=670&lines=One+day%2C+you+will+be+old+enough+to+start+reading+fairytales+again." alt="Typing SVG" />
   </a>
 </div>
-
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=60a5fa&center=false&vCenter=true&width=435&lines=%E2%9E%A4+About+Me&repeat=false" alt="About Me" />
-
-  <br>
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=60a5fa&center=false&vCenter=true&width=300&lines=%E2%9E%A4+Technologies&repeat=false" alt="Technologies" />
-
 <div align="left">
   </div>
-    
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=1&pause=0&color=60a5fa&center=false&vCenter=true&width=435&lines=%E2%9E%A4+Social+Connect&repeat=false" alt="Socials" />
 <div>
   
