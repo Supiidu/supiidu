@@ -18,6 +18,12 @@
   <br>
   </div>
 
+
+## Featured projects
+
+- **[G41 Glass Player](./projects/g41-glass-player.md)** — Android/SystemUI customization for a Moto G41 used as a dedicated music player, with an audio-reactive continuous waveform. *Case study; source code pending publication.*
+- **[StoreAPI](https://github.com/Supiidu/StoreAPI)** — Java/Spring Boot sample storefront with RabbitMQ messaging and MySQL persistence.
+
 <div align=center>
     <img src="https://raw.githubusercontent.com/Supiidu/supiidu/refs/heads/main/assets/197.gif" width="80">
 </div>
