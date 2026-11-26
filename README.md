@@ -15,9 +15,9 @@
 </picture>
 
 <p align="center">
-  <a href="https://linkedin.com/in/matheusshenrique">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:m.henrique3243@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/matheusshenrique"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/linkedin-mono-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/linkedin-mono-light.svg"><img src="assets/linkedin-mono-light.svg" alt="LinkedIn" title="LinkedIn" width="24" height="24"></picture></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:m.henrique3243@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/mail-mono-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/mail-mono-light.svg"><img src="assets/mail-mono-light.svg" alt="Email" title="Email" width="24" height="24"></picture></a>
 </p>
 
 <!-- Visual layout adapted from https://github.com/beydemirfurkan/awesome-github-profile/blob/main/assets/minimal/editorial-card.svg (MIT). -->
