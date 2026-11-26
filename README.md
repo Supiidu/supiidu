@@ -1,6 +1,6 @@
 ![Matheus Henrique — IT student with an interest in software development, Linux, AI, and design.](assets/editorial-masthead.svg)
 
-<p align="center" lang="ja">「……やっぱり、ちょっと違うなあ」</p>
+<p align="center" lang="ja"><strong>「……やっぱり、ちょっと違うなあ」</strong></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/tools-v2-dark.svg">
